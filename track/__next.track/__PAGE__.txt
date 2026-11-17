@@ -1,0 +1,27 @@
+2:"$Sreact.fragment"
+3:"/maison-sable-preview/_next/static/chunks/06_9wq9p6bwqn.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"$Sreact.suspense"
+b:"/maison-sable-preview/_next/static/chunks/3m_bo8o6bfdpa.js"
+c:I[76594,["$3","$b"],"OrderTracker"]
+d:I[97367,["$3"],"OutletBoundary"]
+10:"ViewportBoundary"
+11:I[97367,["$3"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3"],"$12"]
+14:I[27201,["$3"],"IconMark"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","div",null,{"className":"wrap min-h-[70svh]","children":["$","$a",null,{"fallback":["$","div",null,{"className":"py-14 lg:py-24","children":[["$","h1",null,{"className":"t-h1","children":"Track your order"}],["$","p",null,{"className":"t-lead mt-6 max-w-[38ch] text-muted","children":"Follow your cake from the oven to the box to your door."}]]}],"children":["$","$Lc",null,{}]}]}],[["$","script","script-0",{"src":"/maison-sable-preview/_next/static/chunks/3m_bo8o6bfdpa.js","async":true}]],["$","$Ld",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$8"}}]]
+1:[["children",{"s":"track","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f7f1e8"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Track your order · Maison Sable"}],["$","meta","1",{"name":"description","content":"Follow your Maison Sable cake from the oven to your door with your order number."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"canonical","href":"https://maisonsable.example/track/"}],["$","meta","4",{"property":"og:title","content":"Custom cakes in Franklin Square, Long Island"}],["$","meta","5",{"property":"og:description","content":"Custom cakes baked to order in Franklin Square, Long Island. Design your cake online, choose a date, and collect it or have it delivered across Nassau County."}],["$","meta","6",{"property":"og:site_name","content":"Maison Sable"}],["$","meta","7",{"property":"og:locale","content":"en_US"}],["$","meta","8",{"property":"og:image","content":"https://maisonsable.example/og.jpg"}],["$","meta","9",{"property":"og:image:width","content":"1200"}],["$","meta","10",{"property":"og:image:height","content":"630"}],["$","meta","11",{"property":"og:image:alt","content":"A two-tier ivory cake with a chocolate drip and garden roses"}],["$","meta","12",{"property":"og:type","content":"website"}],["$","meta","13",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","14",{"name":"twitter:title","content":"Custom cakes in Franklin Square, Long Island"}],["$","meta","15",{"name":"twitter:description","content":"Custom cakes baked to order in Franklin Square, Long Island. Design your cake online, choose a date, and collect it or have it delivered across Nassau County."}],["$","meta","16",{"name":"twitter:image","content":"https://maisonsable.example/og.jpg"}],["$","link","17",{"rel":"icon","href":"/maison-sable-preview/icon.svg?icon.2s7--ee8mrm86.svg","sizes":"any","type":"image/svg+xml"}],["$","$L14","18",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@15","v":null,"s":"$8"}},"a":"$@16","u":"$@17","b":"HhyZnG-SL0FAsoWKhrT6e"}
+e:null
+17:true
+8:300
+8:C
+16:0
+6:"$undefined"
+15:"$undefined"
+f:"$undefined"
